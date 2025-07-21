@@ -66,7 +66,7 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/khushal212001/Applicant-Tracking-System.git
+git clone https://github.com/khushal212001/ai-resume-analyser.git
 cd ai-resume-analyzer
 ```
 
